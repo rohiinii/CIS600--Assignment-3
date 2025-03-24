@@ -13,8 +13,7 @@ This project simulates an IoT environmental station that collects data from virt
   - Humidity (%): 0 to 100
   - CO2 (ppm): 300 to 2000
 - Publishes data to **ThingSpeak** every 15 seconds
-- Uses the **MQTT protocol** for lightweight communication
-- Displays the sensor values in real-time on ThingSpeak dashboards
+- Uses the **MQTT protocol** for lightweight communication to ThingSpeak dashboards
 
 ---
 
